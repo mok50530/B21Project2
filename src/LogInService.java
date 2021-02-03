@@ -1,4 +1,4 @@
 public class LogInService {
 
-    // to east for me
+    // to easy for me
 }
